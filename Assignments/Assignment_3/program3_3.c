@@ -28,7 +28,6 @@ void DisplayEvenFactor(int iNo)
             printf("%d\t",i);
         }
     }
-
 }
 
 int main()
@@ -42,7 +41,6 @@ int main()
     DisplayEvenFactor(iValue);
     
     return 0;
-
 }
 
 /////////////////////////////////////////////

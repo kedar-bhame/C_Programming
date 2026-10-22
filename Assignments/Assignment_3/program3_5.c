@@ -26,7 +26,6 @@ BOOL ChkVowel(char cValue)
     {
         return FALSE;
     }  
-
 }
 
 int main()
@@ -34,7 +33,7 @@ int main()
     char cValue = '\0';
     BOOL bRet = FALSE;
 
-    printf("Enter charactor : \n");
+    printf("Enter character : \n");
 
     scanf("%c",&cValue);
 
@@ -50,13 +49,12 @@ int main()
     }
     
     return 0;
-
 }
 
 /////////////////////////////////////////////
 //          Test
 //------------------------------------------
-//      Input1      Output
+//      Input      Output
 //----------------------------------------- 
 //      e           It is Vowel
 //      d           It is not Vowel

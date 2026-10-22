@@ -27,7 +27,6 @@ void PrintEven(int iNo)
             printf("%d\t",iCnt);
         }
     }
-
 }
 
 int main()
@@ -41,7 +40,6 @@ int main()
     PrintEven(iValue);
     
     return 0;
-
 }
 
 /////////////////////////////////////////////

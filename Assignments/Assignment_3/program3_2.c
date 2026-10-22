@@ -28,7 +28,6 @@ void DisplayFactor(int iNo)
             printf("%d\t",i);
         }
     }
-
 }
 
 int main()
@@ -42,7 +41,6 @@ int main()
     DisplayFactor(iValue);
     
     return 0;
-
 }
 
 /////////////////////////////////////////////

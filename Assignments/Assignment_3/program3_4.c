@@ -21,7 +21,6 @@ void DisplayConvert(char cValue)
     {
         printf("%c",(cValue + 32));
     }  
-
 }
 
 int main()
@@ -35,7 +34,6 @@ int main()
     DisplayConvert(cValue);
     
     return 0;
-
 }
 
 /////////////////////////////////////////////
