@@ -4,7 +4,7 @@
 //////////////////////////////////////
 //
 // Function Name    :   Pattern
-// Description      :   Display the pattern of characters on screen
+// Description      :   Display the pattern of numbers on screen
 // Input            :   Integer, Integer
 // Output           :   Void
 // Author           :   Kedar Anant Bhame
@@ -41,7 +41,7 @@ int main()
 ////////////////////////////////////////////////////////////
 //                  Test
 //----------------------------------------------------------
-//      Input1= 4     Input2= 5       Output= 
+//      Input1= 4     Input2= 4       Output= 
 //----------------------------------------------------------
 //      1  2  3  4  
 //      5  6  7  8  

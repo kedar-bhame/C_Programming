@@ -4,7 +4,7 @@
 //////////////////////////////////////
 //
 // Function Name    :   Pattern
-// Description      :   Display the pattern of characters on screen
+// Description      :   Display the pattern of numbers on screen
 // Input            :   Integer, Integer
 // Output           :   Void
 // Author           :   Kedar Anant Bhame
